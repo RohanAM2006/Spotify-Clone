@@ -56,4 +56,6 @@ Volume controls and seekbar
 Mobile optimization improvements
 
 Made with ❤️ by Rohan A M
+
+
 Feel free to connect and explore my other projects!
