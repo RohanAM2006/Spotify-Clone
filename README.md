@@ -6,8 +6,8 @@ A responsive and stylish **Spotify Web Player Clone** built with HTML, CSS, and 
 
 ## 📸 Screenshots
 
-![Landing Page](./assets/screenshots/landing.png)
-![Music Player](./assets/screenshots/player.png)
+![image](https://github.com/user-attachments/assets/75cb08fc-df61-4863-989b-ef703b0aed55)
+
 
 ---
 
