@@ -14,13 +14,13 @@ A responsive and stylish **Spotify Web Player Clone** built with HTML, CSS, and 
 
 ## 🚀 Features
 
-✅ Sleek and responsive UI inspired by Spotify  
-✅ Sidebar navigation for Home, Search, Library  
-✅ Custom Music Player (Play, Pause, Forward, Backward)  
-✅ Playlist and album sections  
-✅ Artist info layout  
-✅ Bootstrap and Google Fonts integration  
-✅ Easy to extend with real API like Spotify Web API
+ Sleek and responsive UI inspired by Spotify  
+ Sidebar navigation for Home, Search, Library  
+ Custom Music Player (Play, Pause, Forward, Backward)  
+ Playlist and album sections  
+ Artist info layout  
+ Bootstrap and Google Fonts integration  
+ Easy to extend with real API like Spotify Web API
 
 ---
 
